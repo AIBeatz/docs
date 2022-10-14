@@ -17,4 +17,4 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 edit:
-  repo: "https://git.universe.io/aibeatz/docs/-/blob/dev/"
+  repo: "https://github.com/AIBeatz/docs/blob/main/"
