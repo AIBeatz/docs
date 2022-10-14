@@ -1,0 +1,20 @@
+input: .
+output: .retype
+url: "https://docs.aibeatz.com"
+branding:
+  title: AIBeatz
+  label: Docs
+  logo: ./images/logo.svg
+  colors: 
+    label:
+      text: "#000"
+      background: "#f77dc0"
+links:
+- text: Make a beat!
+  link: https://aibeatz.com
+- text: Website
+  link: https://www.aibeatz.com
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+edit:
+  repo: "https://git.universe.io/aibeatz/docs/-/blob/dev/"
